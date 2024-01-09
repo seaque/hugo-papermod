@@ -1,4 +1,4 @@
-baseURL: "https://seaque.github.io/blog"
+baseURL: "https://seaque.github.io/blog/"
 title: seaque • Blog
 paginate: 5
 theme: PaperMod
@@ -81,6 +81,8 @@ params:
       url: "https://mastodon.social/@emirhanhasanoglu"
     - name: github
       url: "https://github.com/seaque"
+    - name: rss
+      url: "https://seaque.github.io/blog/index.xml"
 
   analytics:
     google:
