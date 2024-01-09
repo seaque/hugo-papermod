@@ -1,4 +1,4 @@
-baseURL: "https://seaque.github.io/"
+baseURL: "https://seaque.github.io/blog"
 title: seaque • Blog
 paginate: 5
 theme: PaperMod
